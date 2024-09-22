@@ -4,7 +4,7 @@
 
 [Vulnerability Scanner in Python](https://github.com/Ltriplett15/Custom-Vulnerability-Scanner)
 
-[Custom Honeypot](https://github.com/Ltriplett15/custom-honeypot)
+[Honeypot Simulates Vulnerable Services](https://github.com/Ltriplett15/custom-honeypot)
 
 
 
