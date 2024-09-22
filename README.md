@@ -6,6 +6,8 @@
 
 [Honeypot Simulates Vulnerable Services](https://github.com/Ltriplett15/custom-honeypot)
 
+[Malware Analysis Toolkit](https://github.com/Ltriplett15/malware-analysis-toolkit)
+
 
 
 <h2> 🤳 Connect with me:</h2>
